@@ -21,8 +21,8 @@ export default class App extends React.Component {
   render() {
     if (this.state.isLoading) {
       return (
-          <View style={{flex: 1, paddingTop: 20}}>
-            <ActivityIndicator />
+          <View style={{flex: 1, paddingTop: 50}}>
+            <ActivityIndicator color="mediumslateblue" size="large"/>
           </View>
         );
     }
