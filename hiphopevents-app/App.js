@@ -1,5 +1,5 @@
 import React from 'react';
-import {ActivityIndicator, Image, StyleSheet, Text, View} from 'react-native';
+import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View} from 'react-native';
 import {Button, Card, Divider, Subheader} from 'react-native-material-design';
 
 export default class App extends React.Component {
@@ -27,9 +27,9 @@ export default class App extends React.Component {
     }
 
     return (
-      <View style={styles.container}>
+      <ScrollView>
         {this.renderDays()}
-      </View>
+      </ScrollView>
     );
   }
 
@@ -79,5 +79,6 @@ export default class App extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1
   },
 });
