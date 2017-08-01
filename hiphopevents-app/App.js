@@ -1,3 +1,4 @@
+import moment from 'moment/src/moment';
 import React from 'react';
 import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View} from 'react-native';
 import {Button, Card, Divider, Subheader} from 'react-native-material-design';
@@ -39,9 +40,18 @@ export default class App extends React.Component {
 
   renderSingleDay = (day) => {
     const renderedEvents = day.events.map(this.renderEvent);
+    const humanReadableDate = moment(day.date).calendar(null, {
+      lastDay: '[Yesterday]',
+      sameDay: '[Today]',
+      nextDay: '[Tomorrow]',
+      lastWeek: '[last] dddd',
+      nextWeek: 'dddd',
+      sameElse: 'dddd - LL'
+    });
+
     return (
       <View key={day.date}>
-        <Subheader text={day.date} />
+        <Subheader text={humanReadableDate} />
         {renderedEvents}
         <Divider />
       </View>
