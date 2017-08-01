@@ -1,6 +1,6 @@
 import React from 'react';
 import {ActivityIndicator, Image, StyleSheet, Text, View} from 'react-native';
-import {Button, Card, Subheader} from 'react-native-material-design';
+import {Button, Card, Divider, Subheader} from 'react-native-material-design';
 
 export default class App extends React.Component {
 
@@ -43,6 +43,7 @@ export default class App extends React.Component {
       <View key={day.date}>
         <Subheader text={day.date} />
         {renderedEvents}
+        <Divider />
       </View>
     );
   };
@@ -50,14 +51,13 @@ export default class App extends React.Component {
   renderEvent = (event) => {
     return (
       <Card key={event.ticketLink}>
+        <Card.Media
+          image={<Image source={{uri: event.image}}/>}
+        />
         <Card.Body>
           <Text>{event.title}</Text>
           <Text>{event.startTime}</Text>
-          <Image source={{uri: event.image}}/>
         </Card.Body>
-        <Card.Actions>
-          <Button text="Buy Tickets"/>
-        </Card.Actions>
       </Card>
     );
   };
