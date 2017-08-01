@@ -1,3 +1,5 @@
+from urllib.parse import urlparse
+
 from bs4 import BeautifulSoup as Soup
 import requests
 import json
@@ -31,9 +33,10 @@ class Scraper:
 
     @staticmethod
     def _eventJsonFromEventDom(event: Soup):
+        imageUrl = urlparse(event.select_one('a > img').get('src'))
         return {
             "eventLink": "http://www.nuyorican.org{0}".format(event.select_one('a').get('href')),
-            "image": event.select_one('a > img').get('src'),
+            "image": imageUrl.geturl().replace(imageUrl.query, ''),
             "title": event.select_one('.headliners a').get_text(),
             "startTime": event.select_one('.start-time').get_text(),
             "ticketLink": event.select_one('.ticket-link a').get('href'),
