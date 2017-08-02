@@ -29,12 +29,6 @@ export default class App extends React.Component {
 
     return (
       <View>
-        <Toolbar theme="light" icon="event" title="Events" overrides={
-          {
-            color: "paperBlueGrey",
-          }
-        }/>
-
         <ScrollView>
           {this.renderDays()}
         </ScrollView>
