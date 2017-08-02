@@ -1,7 +1,7 @@
 import moment from 'moment/src/moment';
 import React from 'react';
 import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View} from 'react-native';
-import {Button, Card, Divider, Subheader} from 'react-native-material-design';
+import {Card, Divider, Subheader, Toolbar} from 'react-native-material-design';
 
 export default class App extends React.Component {
 
@@ -28,9 +28,17 @@ export default class App extends React.Component {
     }
 
     return (
-      <ScrollView>
-        {this.renderDays()}
-      </ScrollView>
+      <View>
+        <Toolbar theme="light" title="Events" overrides={
+          {
+            color: "paperBlueGrey",
+          }
+        }/>
+
+        <ScrollView>
+          {this.renderDays()}
+        </ScrollView>
+      </View>
     );
   }
 
