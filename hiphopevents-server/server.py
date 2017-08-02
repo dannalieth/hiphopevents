@@ -38,7 +38,7 @@ class EventsHandler(BaseHTTPRequestHandler):
         return
 
 def run():
-    server_address = ('', 8081)
+    server_address = ('', 9081)
     httpd = HTTPServer(server_address, EventsHandler)
     print('Started server at...', server_address)
     httpd.serve_forever()

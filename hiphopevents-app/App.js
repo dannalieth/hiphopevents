@@ -73,7 +73,7 @@ export default class App extends React.Component {
   };
 
   _scrapeEvents = () => {
-    return fetch('http://10.201.217.202:8081/api/events')
+    return fetch('http://45.55.15.52:9081/api/events')
       .then((response) => response.json())
       .then((response) => {
         this.setState({
