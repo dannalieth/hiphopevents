@@ -29,7 +29,7 @@ export default class App extends React.Component {
 
     return (
       <View>
-        <Toolbar theme="light" title="Events" overrides={
+        <Toolbar theme="light" icon="event" title="Events" overrides={
           {
             color: "paperBlueGrey",
           }
