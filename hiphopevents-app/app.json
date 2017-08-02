@@ -1,5 +1,12 @@
 {
   "expo": {
-    "sdkVersion": "19.0.0"
+    "name": "Hip Hop Events",
+    "icon": "./nuyorican-icon.png",
+    "version": "0.1.0",
+    "slug": "hip-hip-events",
+    "sdkVersion": "19.0.0",
+    "android": {
+      "package": "com.soulspirit.hiphopevents"
+    }
   }
 }
