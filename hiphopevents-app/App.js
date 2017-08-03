@@ -33,7 +33,7 @@ export class MainScreen extends React.Component {
     }
 
     return (
-      <View>
+      <View style={styles.container}>
         <ScrollView>
           {this.renderDays()}
         </ScrollView>
@@ -117,6 +117,7 @@ export default class App extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1
+    flex: 1,
+    backgroundColor: "white",
   },
 });
