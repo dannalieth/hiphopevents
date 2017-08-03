@@ -66,8 +66,11 @@ export class MainScreen extends React.Component {
   };
 
   renderEvent = (event) => {
+    const { navigate } = this.props.navigation;
     return (
-      <Card key={event.ticketLink}>
+      <Card
+        key={event.ticketLink}
+        onPress={() => navigate('Event', { event: event })}>
         <Card.Media
           image={<Image source={{uri: event.image}}/>}
         />
