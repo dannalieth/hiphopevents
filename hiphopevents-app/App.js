@@ -1,9 +1,10 @@
 import moment from 'moment/src/moment';
 import React from 'react';
 import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View} from 'react-native';
-import {Card, Divider, Subheader, Toolbar} from 'react-native-material-design';
+import {Card, Divider, Subheader} from 'react-native-material-design';
+import {StackNavigator} from "react-navigation";
 
-export default class App extends React.Component {
+export class MainScreen extends React.Component {
 
   constructor(props) {
     super(props);
@@ -86,6 +87,27 @@ export default class App extends React.Component {
       .catch((error) => {
         console.error(error);
       });
+  }
+}
+
+class EventDetailScreen extends React.Component {
+  render() {
+    return <Text>List of all contacts</Text>
+  }
+}
+
+const MainScreenNavigator = StackNavigator({
+  Main: { screen: MainScreen },
+  Event: { screen: EventDetailScreen },
+});
+
+export default class App extends React.Component {
+  render() {
+    return (
+      <View style={styles.container}>
+        <MainScreenNavigator />
+      </View>
+    );
   }
 }
 
