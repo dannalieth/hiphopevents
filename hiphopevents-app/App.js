@@ -5,6 +5,10 @@ import {Card, Divider, Subheader} from 'react-native-material-design';
 import {StackNavigator} from "react-navigation";
 
 export class MainScreen extends React.Component {
+  static navigationOptions = {
+    title: 'Events',
+    headerTintColor: 'grey',
+  };
 
   constructor(props) {
     super(props);
