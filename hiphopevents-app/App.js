@@ -1,6 +1,6 @@
 import moment from 'moment/src/moment';
 import React from 'react';
-import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View} from 'react-native';
+import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View, WebView} from 'react-native';
 import {Card, Divider, Subheader} from 'react-native-material-design';
 import {StackNavigator} from "react-navigation";
 
@@ -98,8 +98,17 @@ export class MainScreen extends React.Component {
 }
 
 class EventDetailScreen extends React.Component {
+  static navigationOptions = ({ navigation }) => ({
+    title: `${navigation.state.params.event.title}`,
+  });
+
   render() {
-    return <Text>List of all contacts</Text>
+    const { event } = this.props.navigation.state.params;
+    return (
+      <WebView
+        source={{uri: event.eventLink}}
+      />
+    );
   }
 }
 
