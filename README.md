@@ -6,6 +6,6 @@ Hip Hop Events is a mobile app that let's users discover events happening at the
 
 ## Screenshots
 
-<img src="images/main_page.png" width="200">
+<img src="images/main_page.png" width="350">
 
-<img src="images/event_page.png" width="200">
+<img src="images/event_page.png" width="350">
