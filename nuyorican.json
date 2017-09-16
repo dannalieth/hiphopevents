@@ -1,2020 +1,1923 @@
 [
   {
-    "date": "2017-08-19T00:00:00-04:00",
     "events": [
       {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1534432",
-        "startTime": "6:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/62/96/15-og.png?",
-        "title": "Latinos NYC presents: 4 Women The Rebirth.",
-        "eventLink": "http://www.nuyorican.org/event/1534432-latinos-nyc-4-women-new-york/"
-      },
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1503988",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
         "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1503988-words-hip-hop-poetry-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-21T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488417",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488417-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-23T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500155",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500155-wednesday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-25T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500305",
         "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam Hosted by Mahogany Browne",
-        "eventLink": "http://www.nuyorican.org/event/1500305-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-26T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1537187",
-        "startTime": "11:00 am",
-        "image": "https://image-ticketfly.imgix.net/00/02/63/49/26-og.jpg?",
-        "title": "Nuyorican Poets Cafe 4th Annual Block Party",
-        "eventLink": "http://www.nuyorican.org/event/1537187-nuyorican-poets-cafe-4th-new-york/"
-      },
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1545934",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/10/08-og.jpg?",
-        "title": "Kraal Charles Media presents Verses",
-        "eventLink": "http://www.nuyorican.org/event/1545934-kraal-charles-media-verses-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-28T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488418",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488418-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-30T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500156",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500156-wednesday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-01T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500306",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500306-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-04T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488419",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488419-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-05T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1545909",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/81/82/69-og.jpg?",
-        "title": "Tuesday Night Latin Jazz with Chembo Corniel",
-        "eventLink": "http://www.nuyorican.org/event/1545909-tuesday-night-latin-jazz-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-06T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1503965",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503965-all-that-hip-hop-poetry-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-08T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500307",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500307-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-09T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1541551",
-        "startTime": "8:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/64/28/14-og.jpg?",
-        "title": "I'm Funnier than you 6",
-        "eventLink": "http://www.nuyorican.org/event/1541551-im-funnier-than-you-6-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-11T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488420",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488420-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-12T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1545922",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/62/29/52-og.jpg?",
-        "title": "Latin Jazz Big Band Night featuring: The Bronx Conexi\u00f3n",
-        "eventLink": "http://www.nuyorican.org/event/1545922-latin-jazz-big-band-night-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-13T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500161",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500161-wednesday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-15T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500308",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500308-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-16T00:00:00-04:00",
-    "events": [
-      {
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503989",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1503989-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503989-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-09-16T00:00:00-04:00"
   },
   {
-    "date": "2017-09-18T00:00:00-04:00",
     "events": [
       {
+        "title": "Rookie of the Year Vol. 38",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1551046",
+        "eventLink": "http://www.nuyorican.org/event/1551046-rookie-year-vol-38-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/90/60-og.jpg?"
+      }
+    ],
+    "date": "2017-09-17T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488421",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488421-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488421-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-09-18T00:00:00-04:00"
   },
   {
-    "date": "2017-09-19T00:00:00-04:00",
     "events": [
       {
+        "title": "Poetry Slam for Peace: A Celebration of United Nations International Day of Peace",
+        "startTime": "6:30 pm",
+        "ticketLink": "",
+        "eventLink": "http://www.nuyorican.org/event/1562774-poetry-slam-for-peace-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/67/96/88-og.jpg?"
+      },
+      {
+        "title": "Tuesday Night Latin Jazz with Willie Martinez & La Familia Sextet",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1545910",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/73/73/41-og.jpg?",
-        "title": "Tuesday Night Latin Jazz with Willie Martinez & La Familia Sextet",
-        "eventLink": "http://www.nuyorican.org/event/1545910-tuesday-night-latin-jazz-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1545910-tuesday-night-latin-jazz-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/73/73/41-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-09-19T00:00:00-04:00"
   },
   {
-    "date": "2017-09-20T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500164",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500164-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500164-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-09-20T00:00:00-04:00"
   },
   {
-    "date": "2017-09-22T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam Hosted By Mahogany Browne Featuring Melissa Lozada -Olivia",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500309",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500309-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500309-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/66/73/70-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-09-22T00:00:00-04:00"
   },
   {
-    "date": "2017-09-23T00:00:00-04:00",
     "events": [
       {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1543205",
-        "startTime": "6:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/64/60/20-og.png?",
         "title": "Latinos NYC Presents El Show Del 10 Aniversario",
-        "eventLink": "http://www.nuyorican.org/event/1543205-latinos-nyc-el-show-del-10-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-25T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488422",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488422-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-27T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500166",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500166-wednesday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-29T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500310",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500310-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-02T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488424",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488424-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-03T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1545915",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/81/82/69-og.jpg?",
-        "title": "Tuesday Night Latin Jazz with Chembo Corniel",
-        "eventLink": "http://www.nuyorican.org/event/1545915-tuesday-night-latin-jazz-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-04T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1503967",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503967-all-that-hip-hop-poetry-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-06T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500311",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500311-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-09T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488425",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488425-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-10T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1545926",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/62/29/52-og.jpg?",
-        "title": "Latin Jazz Big Band Night featuring: The Bronx Conexi\u00f3n",
-        "eventLink": "http://www.nuyorican.org/event/1545926-latin-jazz-big-band-night-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-11T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500169",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500169-wednesday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-13T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1500313",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500313-friday-night-poetry-slam-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-14T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1539076",
         "startTime": "6:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/63/83/85-og.jpg?",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1543205",
+        "eventLink": "http://www.nuyorican.org/event/1543205-latinos-nyc-el-show-del-10-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/64/60/20-og.png?"
+      },
+      {
+        "title": "Body of Art",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1562918",
+        "eventLink": "http://www.nuyorican.org/event/1562918-body-art-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/06/84/29-og.jpg?"
+      }
+    ],
+    "date": "2017-09-23T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Screaming Strings/ Cuerdas Que Gritan",
+        "startTime": "6:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1561169",
+        "eventLink": "http://www.nuyorican.org/event/1561169-screaming-strings-cuerdas-que-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/67/68/45-og.png?"
+      }
+    ],
+    "date": "2017-09-24T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1488422",
+        "eventLink": "http://www.nuyorican.org/event/1488422-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
+      }
+    ],
+    "date": "2017-09-25T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "The Paul Carlon Trio Tresillo CD Release",
+        "startTime": "9:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1549155",
+        "eventLink": "http://www.nuyorican.org/event/1549155-paul-carlon-trio-tresillo-cd-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/57/30-og.jpg?"
+      }
+    ],
+    "date": "2017-09-26T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1500166",
+        "eventLink": "http://www.nuyorican.org/event/1500166-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
+      }
+    ],
+    "date": "2017-09-27T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Friday Night Poetry Slam Hosted By Mahogany Browne Featuring Suzi Q. Smith",
+        "startTime": "10:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1500310",
+        "eventLink": "http://www.nuyorican.org/event/1500310-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/66/73/78-og.jpg?"
+      }
+    ],
+    "date": "2017-09-29T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Toe 2 Toe Poetry Slam",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1564171",
+        "eventLink": "http://www.nuyorican.org/event/1564171-toe-2-toe-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/68/23/36-og.png?"
+      },
+      {
+        "title": "Kraal Charles Media presents Verses",
+        "startTime": "10:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1562964",
+        "eventLink": "http://www.nuyorican.org/event/1562964-kraal-charles-media-verses-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/10/08-og.jpg?"
+      }
+    ],
+    "date": "2017-09-30T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1488424",
+        "eventLink": "http://www.nuyorican.org/event/1488424-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
+      }
+    ],
+    "date": "2017-10-02T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Tuesday Night Latin Jazz with Chembo Corniel",
+        "startTime": "9:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1545915",
+        "eventLink": "http://www.nuyorican.org/event/1545915-tuesday-night-latin-jazz-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/81/82/69-og.jpg?"
+      }
+    ],
+    "date": "2017-10-03T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1503967",
+        "eventLink": "http://www.nuyorican.org/event/1503967-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
+      }
+    ],
+    "date": "2017-10-04T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Rome Neal presents MONK in celebration of jazz great, composer/pianist, Thelonious Sphere Monk",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1554755",
+        "eventLink": "http://www.nuyorican.org/event/1554755-rome-neal-monk-in-celebration-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/66/56/48-og.jpg?"
+      }
+    ],
+    "date": "2017-10-05T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Rome Neal presents MONK in celebration of jazz great, composer/pianist, Thelonious Sphere Monk",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1554753",
+        "eventLink": "http://www.nuyorican.org/event/1554753-rome-neal-monk-in-celebration-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/66/56/48-og.jpg?"
+      },
+      {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1500311",
+        "eventLink": "http://www.nuyorican.org/event/1500311-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
+      }
+    ],
+    "date": "2017-10-06T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Rome Neal presents MONK in celebration of jazz great, composer/pianist, Thelonious Sphere Monk",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1554750",
+        "eventLink": "http://www.nuyorican.org/event/1554750-rome-neal-monk-in-celebration-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/66/56/48-og.jpg?"
+      }
+    ],
+    "date": "2017-10-07T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1488425",
+        "eventLink": "http://www.nuyorican.org/event/1488425-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
+      }
+    ],
+    "date": "2017-10-09T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Latin Jazz Big Band Night featuring: The Bronx Conexi\u00f3n",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1545926",
+        "eventLink": "http://www.nuyorican.org/event/1545926-latin-jazz-big-band-night-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/62/29/52-og.jpg?"
+      }
+    ],
+    "date": "2017-10-10T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1500169",
+        "eventLink": "http://www.nuyorican.org/event/1500169-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
+      }
+    ],
+    "date": "2017-10-11T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "ASL SLAM",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1549116",
+        "eventLink": "http://www.nuyorican.org/event/1549116-asl-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/86/47/67-og.jpg?"
+      },
+      {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1500313",
+        "eventLink": "http://www.nuyorican.org/event/1500313-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
+      }
+    ],
+    "date": "2017-10-13T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
         "title": "Latinos NYC Presents Transcend (in celebration of Filipino American History Month)",
-        "eventLink": "http://www.nuyorican.org/event/1539076-latinos-nyc-transcend-in-new-york/"
+        "startTime": "6:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1539076",
+        "eventLink": "http://www.nuyorican.org/event/1539076-latinos-nyc-transcend-in-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/63/83/85-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-14T00:00:00-04:00"
   },
   {
-    "date": "2017-10-16T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488426",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488426-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488426-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-10-16T00:00:00-04:00"
   },
   {
-    "date": "2017-10-17T00:00:00-04:00",
     "events": [
       {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1545917",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/73/73/41-og.jpg?",
         "title": "Tuesday Night Latin Jazz with Willie Martinez & La Familia Sextet",
-        "eventLink": "http://www.nuyorican.org/event/1545917-tuesday-night-latin-jazz-new-york/"
+        "startTime": "9:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1545917",
+        "eventLink": "http://www.nuyorican.org/event/1545917-tuesday-night-latin-jazz-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/73/73/41-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-17T00:00:00-04:00"
   },
   {
-    "date": "2017-10-18T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500172",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500172-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500172-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-18T00:00:00-04:00"
   },
   {
-    "date": "2017-10-20T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500314",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500314-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500314-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-20T00:00:00-04:00"
   },
   {
-    "date": "2017-10-21T00:00:00-04:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503991",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1503991-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503991-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-21T00:00:00-04:00"
   },
   {
-    "date": "2017-10-23T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488427",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488427-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488427-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-10-23T00:00:00-04:00"
   },
   {
-    "date": "2017-10-25T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500174",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500174-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500174-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-25T00:00:00-04:00"
   },
   {
-    "date": "2017-10-27T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500316",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500316-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500316-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-10-27T00:00:00-04:00"
   },
   {
-    "date": "2017-10-30T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488428",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488428-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488428-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-10-30T00:00:00-04:00"
   },
   {
-    "date": "2017-11-01T00:00:00-04:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503968",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503968-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503968-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2017-11-01T00:00:00-04:00"
   },
   {
-    "date": "2017-11-03T00:00:00-04:00",
     "events": [
       {
+        "title": "ASL SLAM",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1549117",
+        "eventLink": "http://www.nuyorican.org/event/1549117-asl-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/86/47/67-og.jpg?"
+      },
+      {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500317",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500317-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500317-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-03T00:00:00-04:00"
   },
   {
-    "date": "2017-11-06T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488429",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488429-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488429-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-11-06T00:00:00-05:00"
   },
   {
-    "date": "2017-11-08T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500175",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500175-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500175-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-08T00:00:00-05:00"
   },
   {
-    "date": "2017-11-10T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500321",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1500321-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500321-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-10T00:00:00-05:00"
   },
   {
-    "date": "2017-11-13T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488430",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488430-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488430-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-11-13T00:00:00-05:00"
   },
   {
-    "date": "2017-11-15T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500176",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500176-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500176-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-15T00:00:00-05:00"
   },
   {
-    "date": "2017-11-17T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503890",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503890-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503890-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-17T00:00:00-05:00"
   },
   {
-    "date": "2017-11-18T00:00:00-05:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503995",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1503995-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503995-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-18T00:00:00-05:00"
   },
   {
-    "date": "2017-11-20T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488431",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488431-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488431-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-11-20T00:00:00-05:00"
   },
   {
-    "date": "2017-11-22T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500177",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500177-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500177-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-22T00:00:00-05:00"
   },
   {
-    "date": "2017-11-24T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503895",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503895-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503895-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-24T00:00:00-05:00"
   },
   {
-    "date": "2017-11-27T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488433",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488433-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488433-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-11-27T00:00:00-05:00"
   },
   {
-    "date": "2017-11-29T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500178",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500178-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500178-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-11-29T00:00:00-05:00"
   },
   {
-    "date": "2017-12-01T00:00:00-05:00",
     "events": [
       {
+        "title": "ASL SLAM",
+        "startTime": "7:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1549118",
+        "eventLink": "http://www.nuyorican.org/event/1549118-asl-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/86/47/67-og.jpg?"
+      },
+      {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503896",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503896-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503896-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-01T00:00:00-05:00"
   },
   {
-    "date": "2017-12-04T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488434",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488434-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488434-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-12-04T00:00:00-05:00"
   },
   {
-    "date": "2017-12-06T00:00:00-05:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503969",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503969-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503969-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2017-12-06T00:00:00-05:00"
   },
   {
-    "date": "2017-12-08T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503899",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503899-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503899-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-08T00:00:00-05:00"
   },
   {
-    "date": "2017-12-11T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488435",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488435-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488435-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-12-11T00:00:00-05:00"
   },
   {
-    "date": "2017-12-13T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500179",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500179-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500179-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-13T00:00:00-05:00"
   },
   {
-    "date": "2017-12-15T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503900",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503900-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503900-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-15T00:00:00-05:00"
   },
   {
-    "date": "2017-12-16T00:00:00-05:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503998",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1503998-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503998-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-16T00:00:00-05:00"
   },
   {
-    "date": "2017-12-18T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488436",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488436-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488436-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-12-18T00:00:00-05:00"
   },
   {
-    "date": "2017-12-20T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500180",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500180-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500180-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-20T00:00:00-05:00"
   },
   {
-    "date": "2017-12-22T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503902",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503902-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503902-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-22T00:00:00-05:00"
   },
   {
-    "date": "2017-12-25T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488438",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488438-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488438-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2017-12-25T00:00:00-05:00"
   },
   {
-    "date": "2017-12-27T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500182",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500182-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500182-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-27T00:00:00-05:00"
   },
   {
-    "date": "2017-12-29T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503904",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503904-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503904-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2017-12-29T00:00:00-05:00"
   },
   {
-    "date": "2018-01-01T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488441",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488441-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488441-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-01-01T00:00:00-05:00"
   },
   {
-    "date": "2018-01-03T00:00:00-05:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503971",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503971-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503971-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-01-03T00:00:00-05:00"
   },
   {
-    "date": "2018-01-05T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503907",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503907-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503907-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-05T00:00:00-05:00"
   },
   {
-    "date": "2018-01-08T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488442",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488442-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488442-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-01-08T00:00:00-05:00"
   },
   {
-    "date": "2018-01-10T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500183",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500183-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500183-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-10T00:00:00-05:00"
   },
   {
-    "date": "2018-01-15T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488444",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488444-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488444-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-01-15T00:00:00-05:00"
   },
   {
-    "date": "2018-01-17T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500184",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500184-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500184-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-17T00:00:00-05:00"
   },
   {
-    "date": "2018-01-19T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503909",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503909-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503909-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-19T00:00:00-05:00"
   },
   {
-    "date": "2018-01-20T00:00:00-05:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1504002",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504002-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1504002-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-20T00:00:00-05:00"
   },
   {
-    "date": "2018-01-22T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488445",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488445-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488445-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-01-22T00:00:00-05:00"
   },
   {
-    "date": "2018-01-24T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500185",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500185-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500185-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-24T00:00:00-05:00"
   },
   {
-    "date": "2018-01-26T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503912",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503912-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503912-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-26T00:00:00-05:00"
   },
   {
-    "date": "2018-01-29T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488446",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488446-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488446-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-01-29T00:00:00-05:00"
   },
   {
-    "date": "2018-01-31T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500186",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500186-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500186-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-01-31T00:00:00-05:00"
   },
   {
-    "date": "2018-02-02T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503913",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503913-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503913-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-02T00:00:00-05:00"
   },
   {
-    "date": "2018-02-05T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488447",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488447-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488447-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-02-05T00:00:00-05:00"
   },
   {
-    "date": "2018-02-07T00:00:00-05:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503972",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503972-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503972-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-02-07T00:00:00-05:00"
   },
   {
-    "date": "2018-02-09T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503915",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503915-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503915-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-09T00:00:00-05:00"
   },
   {
-    "date": "2018-02-12T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488448",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488448-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488448-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-02-12T00:00:00-05:00"
   },
   {
-    "date": "2018-02-14T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500190",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500190-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500190-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-14T00:00:00-05:00"
   },
   {
-    "date": "2018-02-16T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503916",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503916-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503916-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-16T00:00:00-05:00"
   },
   {
-    "date": "2018-02-17T00:00:00-05:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1504007",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504007-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1504007-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-17T00:00:00-05:00"
   },
   {
-    "date": "2018-02-19T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488449",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488449-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488449-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-02-19T00:00:00-05:00"
   },
   {
-    "date": "2018-02-21T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500194",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500194-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500194-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-21T00:00:00-05:00"
   },
   {
-    "date": "2018-02-23T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503917",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503917-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503917-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-23T00:00:00-05:00"
   },
   {
-    "date": "2018-02-26T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488451",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488451-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488451-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-02-26T00:00:00-05:00"
   },
   {
-    "date": "2018-02-28T00:00:00-05:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500196",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500196-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500196-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-02-28T00:00:00-05:00"
   },
   {
-    "date": "2018-03-02T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503921",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503921-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503921-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-02T00:00:00-05:00"
   },
   {
-    "date": "2018-03-05T00:00:00-05:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488453",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488453-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488453-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-03-05T00:00:00-05:00"
   },
   {
-    "date": "2018-03-07T00:00:00-05:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503973",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503973-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503973-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-03-07T00:00:00-05:00"
   },
   {
-    "date": "2018-03-09T00:00:00-05:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503922",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503922-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503922-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-09T00:00:00-05:00"
   },
   {
-    "date": "2018-03-12T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488454",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488454-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488454-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-03-12T00:00:00-04:00"
   },
   {
-    "date": "2018-03-14T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500198",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500198-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500198-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-14T00:00:00-04:00"
   },
   {
-    "date": "2018-03-16T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503924",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503924-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503924-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-16T00:00:00-04:00"
   },
   {
-    "date": "2018-03-17T00:00:00-04:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1504008",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504008-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1504008-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-17T00:00:00-04:00"
   },
   {
-    "date": "2018-03-19T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488455",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488455-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488455-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-03-19T00:00:00-04:00"
   },
   {
-    "date": "2018-03-21T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500206",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500206-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500206-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-21T00:00:00-04:00"
   },
   {
-    "date": "2018-03-23T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503925",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503925-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503925-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-23T00:00:00-04:00"
   },
   {
-    "date": "2018-03-26T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488457",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488457-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488457-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-03-26T00:00:00-04:00"
   },
   {
-    "date": "2018-03-28T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500207",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500207-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500207-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-28T00:00:00-04:00"
   },
   {
-    "date": "2018-03-30T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503926",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503926-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503926-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-03-30T00:00:00-04:00"
   },
   {
-    "date": "2018-04-02T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488458",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488458-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488458-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-04-02T00:00:00-04:00"
   },
   {
-    "date": "2018-04-04T00:00:00-04:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503974",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503974-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503974-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-04-04T00:00:00-04:00"
   },
   {
-    "date": "2018-04-06T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503927",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503927-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503927-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-06T00:00:00-04:00"
   },
   {
-    "date": "2018-04-09T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488459",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488459-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488459-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-04-09T00:00:00-04:00"
   },
   {
-    "date": "2018-04-11T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500208",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500208-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500208-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-11T00:00:00-04:00"
   },
   {
-    "date": "2018-04-13T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503928",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503928-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503928-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-13T00:00:00-04:00"
   },
   {
-    "date": "2018-04-16T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488460",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488460-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488460-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-04-16T00:00:00-04:00"
   },
   {
-    "date": "2018-04-18T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500211",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500211-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500211-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-18T00:00:00-04:00"
   },
   {
-    "date": "2018-04-20T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503931",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503931-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503931-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-20T00:00:00-04:00"
   },
   {
-    "date": "2018-04-21T00:00:00-04:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1504009",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504009-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1504009-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-21T00:00:00-04:00"
   },
   {
-    "date": "2018-04-23T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488462",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488462-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488462-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-04-23T00:00:00-04:00"
   },
   {
-    "date": "2018-04-25T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500212",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500212-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500212-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-25T00:00:00-04:00"
   },
   {
-    "date": "2018-04-27T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503933",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503933-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503933-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-04-27T00:00:00-04:00"
   },
   {
-    "date": "2018-04-30T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488463",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488463-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488463-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-04-30T00:00:00-04:00"
   },
   {
-    "date": "2018-05-02T00:00:00-04:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503975",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503975-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503975-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-05-02T00:00:00-04:00"
   },
   {
-    "date": "2018-05-04T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503934",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503934-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503934-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-04T00:00:00-04:00"
   },
   {
-    "date": "2018-05-07T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488465",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488465-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488465-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-05-07T00:00:00-04:00"
   },
   {
-    "date": "2018-05-09T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500213",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500213-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500213-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-09T00:00:00-04:00"
   },
   {
-    "date": "2018-05-11T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503936",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503936-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503936-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-11T00:00:00-04:00"
   },
   {
-    "date": "2018-05-14T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488466",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488466-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488466-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-05-14T00:00:00-04:00"
   },
   {
-    "date": "2018-05-16T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500216",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500216-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500216-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-16T00:00:00-04:00"
   },
   {
-    "date": "2018-05-18T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503938",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503938-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503938-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-18T00:00:00-04:00"
   },
   {
-    "date": "2018-05-19T00:00:00-04:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1504013",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504013-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1504013-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-19T00:00:00-04:00"
   },
   {
-    "date": "2018-05-21T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488467",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488467-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488467-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-05-21T00:00:00-04:00"
   },
   {
-    "date": "2018-05-23T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500218",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500218-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500218-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-23T00:00:00-04:00"
   },
   {
-    "date": "2018-05-25T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503940",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503940-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503940-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-25T00:00:00-04:00"
   },
   {
-    "date": "2018-05-28T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488468",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488468-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488468-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-05-28T00:00:00-04:00"
   },
   {
-    "date": "2018-05-30T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500220",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500220-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500220-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-05-30T00:00:00-04:00"
   },
   {
-    "date": "2018-06-01T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503941",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503941-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503941-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-01T00:00:00-04:00"
   },
   {
-    "date": "2018-06-04T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488470",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488470-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488470-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-06-04T00:00:00-04:00"
   },
   {
-    "date": "2018-06-06T00:00:00-04:00",
     "events": [
       {
+        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
+        "startTime": "9:30 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503977",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
-        "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503977-all-that-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503977-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-06-06T00:00:00-04:00"
   },
   {
-    "date": "2018-06-08T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503942",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503942-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503942-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-08T00:00:00-04:00"
   },
   {
-    "date": "2018-06-11T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488471",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488471-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488471-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-06-11T00:00:00-04:00"
   },
   {
-    "date": "2018-06-13T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500222",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500222-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500222-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-13T00:00:00-04:00"
   },
   {
-    "date": "2018-06-15T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503943",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503943-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503943-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-15T00:00:00-04:00"
   },
   {
-    "date": "2018-06-16T00:00:00-04:00",
     "events": [
       {
+        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1504017",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
-        "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504017-words-hip-hop-poetry-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1504017-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-16T00:00:00-04:00"
   },
   {
-    "date": "2018-06-18T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488475",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488475-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488475-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-06-18T00:00:00-04:00"
   },
   {
-    "date": "2018-06-20T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500223",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500223-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500223-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-20T00:00:00-04:00"
   },
   {
-    "date": "2018-06-22T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503944",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503944-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503944-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-22T00:00:00-04:00"
   },
   {
-    "date": "2018-06-25T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488476",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488476-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488476-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-06-25T00:00:00-04:00"
   },
   {
-    "date": "2018-06-27T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500224",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500224-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500224-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-27T00:00:00-04:00"
   },
   {
-    "date": "2018-06-29T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503945",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503945-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503945-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-06-29T00:00:00-04:00"
   },
   {
-    "date": "2018-07-02T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488477",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488477-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488477-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-07-02T00:00:00-04:00"
   },
   {
-    "date": "2018-07-04T00:00:00-04:00",
     "events": [
       {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1503980",
-        "startTime": "9:30 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?",
         "title": "ALL THAT! Hip Hop, Poetry & Jazz",
-        "eventLink": "http://www.nuyorican.org/event/1503980-all-that-hip-hop-poetry-new-york/"
+        "startTime": "9:30 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1503980",
+        "eventLink": "http://www.nuyorican.org/event/1503980-all-that-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/15-og.png?"
       }
-    ]
+    ],
+    "date": "2018-07-04T00:00:00-04:00"
   },
   {
-    "date": "2018-07-06T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503948",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503948-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503948-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-07-06T00:00:00-04:00"
   },
   {
-    "date": "2018-07-09T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488478",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488478-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488478-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-07-09T00:00:00-04:00"
   },
   {
-    "date": "2018-07-11T00:00:00-04:00",
     "events": [
       {
+        "title": "Wednesday Night Poetry Slam Open Hosted by Jive Poetic",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1500230",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?",
-        "title": "Wednesday Night Poetry Slam Open Hosted by Omar Holmon",
-        "eventLink": "http://www.nuyorican.org/event/1500230-wednesday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1500230-wednesday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/71/21-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-07-11T00:00:00-04:00"
   },
   {
-    "date": "2018-07-13T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503950",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503950-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503950-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-07-13T00:00:00-04:00"
   },
   {
-    "date": "2018-07-16T00:00:00-04:00",
     "events": [
       {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1488480",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488480-open-mic-monday-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1488480-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-07-16T00:00:00-04:00"
   },
   {
-    "date": "2018-07-20T00:00:00-04:00",
     "events": [
       {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
         "ticketLink": "https://www.ticketfly.com/purchase/event/1503954",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503954-friday-night-poetry-slam-new-york/"
+        "eventLink": "http://www.nuyorican.org/event/1503954-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-07-20T00:00:00-04:00"
   },
   {
-    "date": "2018-07-21T00:00:00-04:00",
     "events": [
       {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1504022",
-        "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?",
         "title": "WORDS: Hip hop & poetry Showcase & Open Mic with WiseGuy and Gaston",
-        "eventLink": "http://www.nuyorican.org/event/1504022-words-hip-hop-poetry-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2018-07-23T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488481",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
-        "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488481-open-mic-monday-new-york/"
-      }
-    ]
-  },
-  {
-    "date": "2018-07-27T00:00:00-04:00",
-    "events": [
-      {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1503955",
         "startTime": "10:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?",
-        "title": "Friday Night Poetry Slam",
-        "eventLink": "http://www.nuyorican.org/event/1503955-friday-night-poetry-slam-new-york/"
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1504022",
+        "eventLink": "http://www.nuyorican.org/event/1504022-words-hip-hop-poetry-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/71/96/07-og.jpg?"
       }
-    ]
+    ],
+    "date": "2018-07-21T00:00:00-04:00"
   },
   {
-    "date": "2018-07-30T00:00:00-04:00",
     "events": [
       {
-        "ticketLink": "https://www.ticketfly.com/purchase/event/1488482",
-        "startTime": "9:00 pm",
-        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?",
         "title": "Open Mic Monday",
-        "eventLink": "http://www.nuyorican.org/event/1488482-open-mic-monday-new-york/"
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1488481",
+        "eventLink": "http://www.nuyorican.org/event/1488481-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
       }
-    ]
+    ],
+    "date": "2018-07-23T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Friday Night Poetry Slam",
+        "startTime": "10:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1503955",
+        "eventLink": "http://www.nuyorican.org/event/1503955-friday-night-poetry-slam-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/02/65/09/53-og.jpg?"
+      }
+    ],
+    "date": "2018-07-27T00:00:00-04:00"
+  },
+  {
+    "events": [
+      {
+        "title": "Open Mic Monday",
+        "startTime": "9:00 pm",
+        "ticketLink": "https://www.ticketfly.com/purchase/event/1488482",
+        "eventLink": "http://www.nuyorican.org/event/1488482-open-mic-monday-new-york/",
+        "image": "https://image-ticketfly.imgix.net/00/01/70/73/87-og.jpeg?"
+      }
+    ],
+    "date": "2018-07-30T00:00:00-04:00"
   }
 ]

@@ -39,7 +39,7 @@ class Scraper:
             "image": imageUrl.geturl().replace(imageUrl.query, ''),
             "title": event.select_one('.headliners a').get_text(),
             "startTime": event.select_one('.start-time').get_text(),
-            "ticketLink": event.select_one('.ticket-link a').get('href'),
+            "ticketLink": event.select_one('.ticket-link a').get('href') if event.select_one('.ticket-link a') is not None else '',
         }
 
     @staticmethod
