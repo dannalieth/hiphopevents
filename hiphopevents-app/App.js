@@ -83,7 +83,7 @@ export class MainScreen extends React.Component {
   };
 
   _scrapeEvents = () => {
-    return fetch('http://45.55.15.52:9081/api/events')
+    return fetch('http://165.227.75.208:9081/api/events')
       .then((response) => response.json())
       .then((response) => {
         this.setState({
