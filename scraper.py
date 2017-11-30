@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup as Soup
@@ -7,10 +8,16 @@ import json
 
 class Scraper:
     def __init__(self):
-        pass
+        self.lastScrapeTime = None
+
+    def run(self):
+        while True:
+            if self.lastScrapeTime is None or datetime.now() > self.lastScrapeTime + timedelta(days=1):
+                Scraper.scrape()
+                self.lastScrapeTime = datetime.now()
 
     @staticmethod
-    def run():
+    def scrape():
         html = Scraper._rawHtml()
         eventsJson = Scraper._daysJsonFromHtml(html)
         Scraper._writeJsonToFile(eventsJson)
@@ -47,5 +54,6 @@ class Scraper:
         with open('nuyorican.json', 'w') as f:
             f.write(json.dumps(eventsJson, indent=2))
 
+
 if __name__ == '__main__':
-    Scraper.run()
+    Scraper().run()
