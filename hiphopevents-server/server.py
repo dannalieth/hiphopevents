@@ -30,18 +30,20 @@ class EventsHandler(BaseHTTPRequestHandler):
         self.send_header('Content-Type', 'text/plain')
         self.end_headers()
 
-        f = open('robot.txt', 'r')
+        f = open('hiphopevents-server/robot.txt', 'r')
         parcel = f.read()
         f.close()
 
         self.wfile.write(bytes(parcel, "utf8"))
         return
 
+
 def run():
     server_address = ('', 9081)
     httpd = HTTPServer(server_address, EventsHandler)
     print('Started server at...', server_address)
     httpd.serve_forever()
+
 
 if __name__ == '__main__':
     eventsFile = sys.argv[1]
