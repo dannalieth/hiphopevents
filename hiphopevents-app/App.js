@@ -1,6 +1,6 @@
 import moment from 'moment/src/moment';
 import React from 'react';
-import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View, WebView} from 'react-native';
+import {ActivityIndicator, Image, StyleSheet, Text, ScrollView, View, WebView, RefreshControl} from 'react-native';
 import {Card, Divider, Subheader} from 'react-native-material-design';
 import {StackNavigator} from "react-navigation";
 
@@ -18,9 +18,8 @@ export class MainScreen extends React.Component {
     };
   }
 
-  componentDidMount() {
-    this.setState({ isLoading: true });
-    this._scrapeEvents();
+  componentWillMount() {
+    this._refresh();
   }
 
   render() {
@@ -34,7 +33,14 @@ export class MainScreen extends React.Component {
 
     return (
       <View style={styles.container}>
-        <ScrollView>
+        <ScrollView
+          refreshControl={
+            <RefreshControl
+              refreshing={this.state.isLoading}
+              onRefresh={this._refresh}
+            />
+          }
+        >
           {this.renderDays()}
         </ScrollView>
       </View>
@@ -80,6 +86,11 @@ export class MainScreen extends React.Component {
         </Card.Body>
       </Card>
     );
+  };
+
+  _refresh = () => {
+    this.setState({isLoading: true});
+    this._scrapeEvents();
   };
 
   _scrapeEvents = () => {
